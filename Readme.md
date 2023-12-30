@@ -1,1 +1,1 @@
-#CODE
+MAGIC telescope ML project 
